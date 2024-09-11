@@ -53,6 +53,7 @@ Um jogo simples de Tower Defense onde o objetivo é impedir que inimigos alcance
 
 - As imagens usadas no jogo estão localizadas na pasta `assets`. Certifique-se de que as imagens `background.png`, `tower.png`, `enemy.png` e `bullet.png` estão corretamente posicionadas nesta pasta.
 
-
+# Contato
+- Email: gilrlane.analysys@gmail.com
 
 
